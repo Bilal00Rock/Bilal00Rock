@@ -2,7 +2,7 @@
 
 ##### About Me 
 - 🔭 I Have 5 years of programming experience under my belt.
-- 🌱 I juggle languages like C#, Python, Verilog, and C++ with ease.
+- 🌱 I juggle languages like C#, Python, Verilog, Matlab, and C++ with ease.
 - 🚀 My adventures in tech span from AI and machine learning to Verilog and SPICE codes in hardware.
 - 📫 plus Full-Stack Development for Web and Desktop Applications.
 - 🤔 I'm particularly fascinated by AI and image processing.
